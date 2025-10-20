@@ -1,11 +1,6 @@
-- 👋 Hi, I’m Madhu
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning fullstack
-- 📫 How to reach me on linkdin plateform,insta
-- 😄 Pronouns: him/he
-- ⚡ Believe 
-
-<!---
-madhug17/madhug17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Madhu  
+💻 Fullstack Developer | AI & Web Development Enthusiast  
+🌱 Currently expanding expertise in Fullstack Development and Machine Learning  
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/goundla-madhu-goud-511002325)  
+😄 Pronouns: he/him  
+⚡ Driven to build impactful solutions and explore innovative technologies
